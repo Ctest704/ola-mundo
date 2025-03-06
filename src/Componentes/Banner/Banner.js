@@ -11,13 +11,10 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                substantivo masculino
-                    1.
-                    conjunto das palavras escritas, em livro, folheto, documento etc. (p.opos. a comentários, aditamentos, sumário etc.); redação original de qualquer obra escrita.
-                    "um t. manuscrito"
-                    2.
-                    trecho ou fragmento de obra de um autor.
-                    "o t. de Graciliano Ramos"
+                "Olá, Mundo" ou "Hello, World" é uma frase que aparece na 
+                tela do computador quando um programa é executado. 
+                É um programa simples que serve para confirmar que o 
+                programa está funcionando e para aprender a usar uma nova linguagem de programação. 
                 </p>
             </div>
 
